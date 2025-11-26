@@ -5,7 +5,7 @@ A simple userscript that fixes RTL (Persian/Arabic) text rendering in AI chatbot
 ## 📸 Before / After
 | Before | After |
 |--------|--------|
-| ![BeforeAfter](./assets/beforeafter.jpg)
+| ![BeforeAfter](./assets/before.jpg) | ![After](./assets/after.jpg) |
 
 ## 🧩 Supported Chatbots
 - ChatGPT  
